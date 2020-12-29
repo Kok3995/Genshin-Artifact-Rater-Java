@@ -2,6 +2,7 @@
 Base on [Genshin-Artifact-Rater](https://github.com/shrubin/Genshin-Artifact-Rater).   
 Added 4* Artifact Scoring.  
 Just drop the files into your projects, fix some imports and you're good to go.  
+Sample app: [Genshin Equip](https://play.google.com/store/apps/details?id=com.kok_emm.genshinequip)
 # Usage
 ```java
 Artifact artifact = new Artifact();
